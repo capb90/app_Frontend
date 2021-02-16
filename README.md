@@ -1,5 +1,7 @@
 ### Deploy en Heroku 
 
+Abrir el siguiente enlace para desplegar la app 
+
 https://shrouded-brushlands-22929.herokuapp.com/
 
 
